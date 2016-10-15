@@ -1,0 +1,4 @@
+Na hora de compilar o código, compilar apenas o arquivo "main.py" pois o mesmo irá chamar o arquivo "Tutorial.py".
+O mesmo por sua vez fará a comunicação com o arquivo "Arduino.py", assim então iniciando a comunicação entre eles.
+
+Obrigado.

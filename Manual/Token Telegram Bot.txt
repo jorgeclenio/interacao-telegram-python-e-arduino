@@ -1,0 +1,4 @@
+Na hora de configurar o token do bot no código "main.py", trocar o token que está lá pelo token do seu bot,
+pois meu bot está desativado.
+
+Obrigado.

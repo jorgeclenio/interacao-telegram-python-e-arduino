@@ -1,0 +1,5 @@
+Verificar se o led está conectado na porta definida dentro do código do arduíno.
+Por exemplo: Se no código o led definido como 12, no arduíno deverá estar conectado 
+na porta 12.
+
+Isso serve para qualquer porta.

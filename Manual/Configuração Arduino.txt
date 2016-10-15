@@ -1,0 +1,4 @@
+No arquivo "Arduino.py", verificar se a porta é a mesma que o arduíno encontra-se conectado.
+Se não for, troque-a. Do contrário disso haverá problemas na comunicação.
+
+Obrigado.
